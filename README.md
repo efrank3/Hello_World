@@ -1,8 +1,8 @@
-#Project Title
-#Description
-#Background
-#Majors
-#Files Used
+# Project Title
+# Description
+# Background
+# Majors
+# Files Used
 
 Hello_World
 
